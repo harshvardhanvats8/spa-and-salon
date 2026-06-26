@@ -1,0 +1,6 @@
+{
+  "name": "LXNARIA",
+  "description": "Premium luxury salon, spa, and beauty studio experience with dynamic online booking, member dashboard, and AI wellness consultation.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
